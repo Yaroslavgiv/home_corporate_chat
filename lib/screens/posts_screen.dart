@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_auth/firebase_auth.dart';
+// import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:image_picker/image_picker.dart';
@@ -8,7 +8,7 @@ import 'package:social_media_app/bloc/auth_cubit.dart';
 import 'package:social_media_app/models/post_model.dart';
 import 'package:social_media_app/screens/chat_screen.dart';
 import 'package:social_media_app/screens/create_post_screen.dart';
-import 'package:social_media_app/screens/sign_in_screen.dart';
+// import 'package:social_media_app/screens/sign_in_screen.dart';
 
 class PostsScreen extends StatefulWidget {
   static const String id = "posts_screen";

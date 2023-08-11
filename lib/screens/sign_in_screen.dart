@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:social_media_app/bloc/auth_cubit.dart';
-import 'package:social_media_app/screens/posts_screen.dart';
+// import 'package:social_media_app/screens/posts_screen.dart';
 import 'package:social_media_app/screens/sign_up_screen.dart';
 
 class SignInScreen extends StatefulWidget {
