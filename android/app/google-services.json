@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "621868056939",
+    "project_id": "social-media-app-44f37",
+    "storage_bucket": "social-media-app-44f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621868056939:android:3b86b843942ca66594cc2e",
+        "android_client_info": {
+          "package_name": "com.krasnuhinyaroslav.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621868056939-i3kiers9epho419n6f1gn9qdvk9t396q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt55IpaYphUmroNl2WZ5ZgCVhud96m1XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621868056939-i3kiers9epho419n6f1gn9qdvk9t396q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621868056939-amagmlbu7hj469jngonpq6ocrtlda8i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.krasnuhinyaroslav.socialMediaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
